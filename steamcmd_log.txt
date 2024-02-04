@@ -1,0 +1,264 @@
+Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+ Update state (0x5) verifying install, progress: 16.06 (6293460 / 39195172)
+ Update state (0x5) verifying install, progress: 22.41 (608935330 / 2717444614)
+ Update state (0x5) verifying install, progress: 53.20 (1445698978 / 2717444614)
+ Update state (0x5) verifying install, progress: 83.18 (2260442530 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+[  0%] Checking for available updates...
+[----] Verifying installation...
+ Update state (0x5) verifying install, progress: 13.38 (5244884 / 39195172)
+ Update state (0x5) verifying install, progress: 27.93 (758881698 / 2717444614)
+ Update state (0x5) verifying install, progress: 59.72 (1622908322 / 2717444614)
+ Update state (0x5) verifying install, progress: 91.32 (2481692063 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+CWorkThreadPool::~CWorkThreadPool: work processing queue not empty: 2 items discarded.
+Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+Steam Console Client (c) Valve Corporation - version 1705108307
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+OK
+Waiting for client config...OK
+Waiting for user info...OK
+OK
+Waiting for client config...OK
+Waiting for user info...OK
+OK
+Waiting for client config...OK
+Waiting for user info...OK
+OK
+Waiting for client config...OK
+Waiting for user info...OK
+OK
+Waiting for client config...OK
+Waiting for user info...OK
+ Update state (0x5) verifying install, progress: 26.76 (10487764 / 39195172)
+ Update state (0x5) verifying install, progress: 23.72 (644586914 / 2717444614)
+ Update state (0x5) verifying install, progress: 46.49 (1263246754 / 2717444614)
+ Update state (0x5) verifying install, progress: 66.20 (1799069090 / 2717444614)
+ Update state (0x5) verifying install, progress: 80.98 (2200673698 / 2717444614)
+ Update state (0x5) verifying install, progress: 91.90 (2497420703 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+[  0%] Checking for available updates...
+[----] Verifying installation...
+ Update state (0x5) verifying install, progress: 18.73 (7342036 / 39195172)
+ Update state (0x5) verifying install, progress: 18.08 (491276194 / 2717444614)
+ Update state (0x5) verifying install, progress: 33.64 (914070946 / 2717444614)
+ Update state (0x5) verifying install, progress: 46.87 (1273732514 / 2717444614)
+ Update state (0x5) verifying install, progress: 57.10 (1551605154 / 2717444614)
+ Update state (0x5) verifying install, progress: 68.21 (1853595042 / 2717444614)
+ Update state (0x5) verifying install, progress: 79.48 (2159779234 / 2717444614)
+ Update state (0x5) verifying install, progress: 91.13 (2476449183 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+ Update state (0x5) verifying install, progress: 24.08 (9439188 / 39195172)
+ Update state (0x5) verifying install, progress: 12.81 (348080034 / 2717444614)
+ Update state (0x5) verifying install, progress: 27.27 (741055906 / 2717444614)
+ Update state (0x5) verifying install, progress: 40.20 (1092328866 / 2717444614)
+ Update state (0x5) verifying install, progress: 50.50 (1372298658 / 2717444614)
+ Update state (0x5) verifying install, progress: 61.54 (1672191394 / 2717444614)
+ Update state (0x5) verifying install, progress: 72.84 (1979424162 / 2717444614)
+ Update state (0x5) verifying install, progress: 84.46 (2295045538 / 2717444614)
+ Update state (0x5) verifying install, progress: 98.02 (2663632990 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+CWorkThreadPool::~CWorkThreadPool: work processing queue not empty: 2 items discarded.
+ Update state (0x5) verifying install, progress: 45.48 (17827796 / 39195172)
+ Update state (0x5) verifying install, progress: 16.96 (460867490 / 2717444614)
+ Update state (0x5) verifying install, progress: 31.36 (852204962 / 2717444614)
+ Update state (0x5) verifying install, progress: 42.28 (1148951970 / 2717444614)
+ Update state (0x5) verifying install, progress: 52.85 (1436261794 / 2717444614)
+ Update state (0x5) verifying install, progress: 64.04 (1740348834 / 2717444614)
+ Update state (0x5) verifying install, progress: 75.43 (2049678754 / 2717444614)
+ Update state (0x5) verifying install, progress: 87.50 (2377883039 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+CWorkThreadPool::~CWorkThreadPool: work processing queue not empty: 2 items discarded.
+ Update state (0x5) verifying install, progress: 18.73 (7342036 / 39195172)
+ Update state (0x5) verifying install, progress: 12.15 (330254242 / 2717444614)
+ Update state (0x5) verifying install, progress: 25.73 (699112866 / 2717444614)
+ Update state (0x5) verifying install, progress: 36.65 (995859874 / 2717444614)
+ Update state (0x5) verifying install, progress: 47.22 (1283169698 / 2717444614)
+ Update state (0x5) verifying install, progress: 58.33 (1585159586 / 2717444614)
+ Update state (0x5) verifying install, progress: 69.75 (1895538082 / 2717444614)
+ Update state (0x5) verifying install, progress: 81.87 (2224790946 / 2717444614)
+ Update state (0x5) verifying install, progress: 98.60 (2679361630 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+ Update state (0x5) verifying install, progress: 16.06 (6293460 / 39195172)
+ Update state (0x5) verifying install, progress: 9.34 (253708194 / 2717444614)
+ Update state (0x5) verifying install, progress: 23.10 (627809698 / 2717444614)
+ Update state (0x5) verifying install, progress: 34.02 (924556706 / 2717444614)
+ Update state (0x5) verifying install, progress: 44.60 (1211866530 / 2717444614)
+ Update state (0x5) verifying install, progress: 55.71 (1513856418 / 2717444614)
+ Update state (0x5) verifying install, progress: 67.13 (1824234914 / 2717444614)
+ Update state (0x5) verifying install, progress: 79.21 (2152439202 / 2717444614)
+ Update state (0x5) verifying install, progress: 94.68 (2572918175 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+CWorkThreadPool::~CWorkThreadPool: work processing queue not empty: 2 items discarded.
+ Update state (0x5) verifying install, progress: 13.38 (5244884 / 39195172)
+ Update state (0x5) verifying install, progress: 13.16 (357512770 / 2717444614)
+ Update state (0x5) verifying install, progress: 26.07 (708550050 / 2717444614)
+ Update state (0x5) verifying install, progress: 36.38 (988519842 / 2717444614)
+ Update state (0x5) verifying install, progress: 47.41 (1288412578 / 2717444614)
+ Update state (0x5) verifying install, progress: 58.64 (1593548194 / 2717444614)
+ Update state (0x5) verifying install, progress: 70.33 (1911266722 / 2717444614)
+ Update state (0x5) verifying install, progress: 83.72 (2275122594 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+CWorkThreadPool::~CWorkThreadPool: work processing queue not empty: 2 items discarded.
+ Update state (0x5) verifying install, progress: 13.38 (5244884 / 39195172)
+ Update state (0x5) verifying install, progress: 11.96 (325011362 / 2717444614)
+ Update state (0x5) verifying install, progress: 24.61 (668704162 / 2717444614)
+ Update state (0x5) verifying install, progress: 34.95 (949722530 / 2717444614)
+ Update state (0x5) verifying install, progress: 45.98 (1249615266 / 2717444614)
+ Update state (0x5) verifying install, progress: 57.25 (1555799458 / 2717444614)
+ Update state (0x5) verifying install, progress: 68.91 (1872469410 / 2717444614)
+ Update state (0x5) verifying install, progress: 82.33 (2237373858 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+ Update state (0x5) verifying install, progress: 13.38 (5244884 / 39195172)
+ Update state (0x5) verifying install, progress: 10.80 (293554082 / 2717444614)
+ Update state (0x5) verifying install, progress: 23.84 (647732642 / 2717444614)
+ Update state (0x5) verifying install, progress: 34.14 (927702434 / 2717444614)
+ Update state (0x5) verifying install, progress: 45.17 (1227595170 / 2717444614)
+ Update state (0x5) verifying install, progress: 56.44 (1533779362 / 2717444614)
+ Update state (0x5) verifying install, progress: 68.13 (1851497890 / 2717444614)
+ Update state (0x5) verifying install, progress: 81.48 (2214305186 / 2717444614)
+ Update state (0x5) verifying install, progress: 99.73 (2710226950 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+CWorkThreadPool::~CWorkThreadPool: work processing queue not empty: 2 items discarded.
+ Update state (0x5) verifying install, progress: 10.71 (4196308 / 39195172)
+ Update state (0x5) verifying install, progress: 6.81 (185188379 / 2717444614)
+ Update state (0x5) verifying install, progress: 21.79 (592158114 / 2717444614)
+ Update state (0x5) verifying install, progress: 32.09 (872127906 / 2717444614)
+ Update state (0x5) verifying install, progress: 43.13 (1172020642 / 2717444614)
+ Update state (0x5) verifying install, progress: 54.40 (1478204834 / 2717444614)
+ Update state (0x5) verifying install, progress: 65.97 (1792777634 / 2717444614)
+ Update state (0x5) verifying install, progress: 79.25 (2153487778 / 2717444614)
+ Update state (0x5) verifying install, progress: 99.64 (2707673182 / 2717444614)
+Success! App '2394010' fully installed.
+Please use force_install_dir before logon!
+Redirecting stderr to 'C:\Users\josep\Desktop\steamcmd\logs\stderr.txt'
+Logging directory: 'C:\Users\josep\Desktop\steamcmd/logs'
+Looks like steam didn't shutdown cleanly, scheduling immediate update check
+[  0%] Checking for available updates...
+[----] Verifying installation...
+CWorkThreadPool::~CWorkThreadPool: work processing queue not empty: 2 items discarded.
